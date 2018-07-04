@@ -1,0 +1,25 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.blue-heading{
+	color: #2c7fb8;
+	Font-size:20px;
+	text-align: center;
+	}
+
+.cat{
+	margin-left: 20px;
+	width: 200px;
+}
+
+.svg{
+	width: 400px;
+	height:200px;
+}
+
+.circle{
+	stroke-width: 3px;
+	stroke: #7fcdbb;
+	fill: #edf8b1;
+}
